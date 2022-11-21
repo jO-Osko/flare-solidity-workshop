@@ -1,0 +1,38 @@
+{
+  "name": "flare-solidity-workshop",
+  "version": "1.0.0",
+  "description": "Tutorial for smart contract development on Flare blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jO-Osko/flare-solidity-workshop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jO-Osko/flare-solidity-workshop/issues"
+  },
+  "homepage": "https://github.com/jO-Osko/flare-solidity-workshop#readme",
+  "dependencies": {
+    "@flarenetwork/flare-periphery-contracts": "^0.0.2",
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.4",
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.2",
+    "@nomiclabs/hardhat-truffle5": "^2.0.7",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@typechain/ethers-v5": "^10.1.1",
+    "@typechain/hardhat": "^6.1.4",
+    "@typechain/truffle-v5": "^8.0.2",
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.0",
+    "@types/node": "^18.11.9",
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.1"
+  }
+}
