@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jO-Osko/flare-solidity-workshop#readme",
   "dependencies": {
-    "@flarenetwork/flare-periphery-contracts": "^0.0.26",
+    "@flarenetwork/flare-periphery-contracts": "^0.0.7",
     "@nomicfoundation/hardhat-chai-matchers": "^1.0.4",
     "@nomiclabs/hardhat-ethers": "^2.2.1",
     "@nomiclabs/hardhat-etherscan": "^3.1.2",
